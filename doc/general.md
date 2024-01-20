@@ -18,12 +18,15 @@ As an addition to "why it matters" I recommend reading [this article][blog].
 
 I use a [zsa moonlander][zsa-moon], this sounds like a thing in a game or a science fiction movie but is just a keyboard with thumb keys.
 
+## Keyboard
 ![my keyboard](https://github.com/SilenLoc/My_KeyBoard/blob/d3efc5f2063fa8317d96ecca00af5abefffb3a6b/visual/keyboard.jpeg?raw=true)
 > you can change or turn off the lights
 
+## Layout
+![my layout](https://github.com/SilenLoc/My_KeyBoard/blob/5b14b336018119767ba61a7364ebafe440c54795/visual/layout.png?raw=true)
+> this looks complicated, but it is not, I promise
 
-
-This is a great keyboard to start with, but the [zsa voyager][zsa-voy] came out last year and provided a keyboard that works for everyone and I think it is better.
+The [zsa moonlander][zsa-moon] is a great keyboard to start with, but the [zsa voyager][zsa-voy] came out last year and provided a keyboard that works for everyone. I did not test that one, but I think it is better for general typing tasks.
 If you want to have a keyboard that fits everywhere and is not so sturdy you might like the [zsa voyager][zsa-voy] more than the [zsa moonlander][zsa-moon].
 My specific layout is only working with the [zsa moonlander][zsa-moon], but you can use the base layout I use [colmak dh][colmak]
 for any keyboard. Those two keyboards have "layers" which you can switch into and out of with a key you decide where it is.
@@ -34,7 +37,7 @@ This might sound ridiculous, but you will find that after some practice you will
 I even got faster on qwerty after using my very different layout. The even crazier sounding idea I have for you is, when getting your keyboard, do use blank key caps.
 This may seem harder, but believe me it will be fine. There are great tools to [train][zsa-train] the custom layout and keyboard by the company that made them. You might just also be okay with non-blank key caps, but I really recommend using a different layout than qwerty. 
 
-# To summarize
+# To summarize and complete
 
 - do not think that you do not work with your hands because you are "only" typing 
 - getting better at typing and improving your work gear can bring you a lot of joy, efficiency, less pain and more finger strength
@@ -42,6 +45,7 @@ This may seem harder, but believe me it will be fine. There are great tools to [
 - layout matters, practice matters more, you can practice with a zsa product [here][zsa-train], with any other [here][typefast] or [here][monkey]
 - get a keyboard where you can take your custom layout with you, for office workers with or without laptops I recommend the [voyager][zsa-voy]
 - do not overthink the choosing of a layout, many are only there because qwerty and others are so bad.
+- be careful with country specific keys, for zsa products you need to configure the swiss keys and not the default ones.
 - have fun typing :)
 
 
