@@ -1,4 +1,4 @@
-# Why custom layouts matter for the average working typer
+# Why custom layouts matter for any typing human
 
 Most humans work with their hands all day, some with keyboards, more than eight hours a day.
 
