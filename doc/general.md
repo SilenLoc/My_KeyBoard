@@ -1,11 +1,8 @@
-# Custom keyboards and layouts for office workers
-
-
-# Why it matters
+# Why custom layouts matter for the average working typer
 
 Most humans work with their hands all day, some with keyboards, more than eight hours a day.
 
-The [average office employee][typing.com] types 
+The [average office employee][typing.com] types F
 over 4.3 million words in a year and still thinks that they do not work with their hands. In my opinion this is a problem. Let us turn this around and this thought does not make sense anymore, imagine telling
 a chef that they do not work with their brain because they are using their hands to prepare food, only when they think
 about the menu they actually work with their brain. Why should you feel that you do not work with your hands when you type all day. I understand that this it is not the same feeling to type and to knit,
@@ -43,7 +40,7 @@ This may seem harder, but believe me it will be fine. There are great tools to [
 - getting better at typing and improving your work gear can bring you a lot of joy, efficiency, less pain and more finger strength
 - choose a custom layout. Qwerty or any other typewriter layout was not designed for today's use of keyboards, you will get some advice here: [general][adv], [colmak dh][colmak], [getruer][blog]
 - layout matters, practice matters more, you can practice with a zsa product [here][zsa-train], with any other [here][typefast] or [here][monkey]
-- get a keyboard where you can take your custom layout with you, for office workers with or without laptops I recommend the [voyager][zsa-voy]
+- get a keyboard where you can take your custom layout with you, for typers that work in an office with or without laptops I recommend the [voyager][zsa-voy]
 - do not overthink the choosing of a layout, many are only there because qwerty and others are so bad.
 - be careful with country specific keys, for zsa products you need to configure the swiss keys and not the default ones.
 - have fun typing :)
