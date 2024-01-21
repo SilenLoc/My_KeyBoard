@@ -2,12 +2,14 @@
 
 Most humans work with their hands all day, some with keyboards, more than eight hours a day.
 
-The [average office employee][typing.com] types F
-over 4.3 million words in a year and still thinks that they do not work with their hands. In my opinion this is a problem. Let us turn this around and this thought does not make sense anymore, imagine telling
-a chef that they do not work with their brain because they are using their hands to prepare food, only when they think
-about the menu they actually work with their brain. Why should you feel that you do not work with your hands when you type all day. I understand that this it is not the same feeling to type and to knit,
-but the mindset should be the same, you would not knit the most annoying way you could, especially not at work. You would also not
-want your hands to hurt or injure them. You choose the right tools and even adjust the tools to make live easier or just better, why not better keyboards?
+The [average office employee][typing.com] types
+over 4.3 million words in a year, often overlooking the tactile nature of their work. I find this perception to be a significant concern.
+While I acknowledge the distinction between typing and activities like knitting, the underlying mindset should be analogous.    
+Just as one wouldn't adopt the most cumbersome knitting technique, especially in a professional setting, the same consideration should extend to typing.
+The shared principle is prioritizing comfort and efficiency.
+Just as you wouldn't want your hands to ache or sustain injuries while knitting, the same holds true for typing at work.
+Choosing the right tools is paramount in both scenarios.
+In knitting, you'd select appropriate needles and techniques for a smoother experience. Similarly, why not invest in better keyboards and layouts to enhance the ease and quality of our daily work?
 
 As an addition to "why it matters" I recommend reading [this article][blog].
 
@@ -23,27 +25,30 @@ I use a [zsa moonlander][zsa-moon], this sounds like a thing in a game or a scie
 ![my layout](https://github.com/SilenLoc/My_KeyBoard/blob/5b14b336018119767ba61a7364ebafe440c54795/visual/layout.png?raw=true)
 > this looks complicated, but it is not, I promise
 
-The [zsa moonlander][zsa-moon] is a great keyboard to start with, but the [zsa voyager][zsa-voy] came out last year and provided a keyboard that works for everyone. I did not test that one, but I think it is better for general typing tasks.
-If you want to have a keyboard that fits everywhere and is not so sturdy you might like the [zsa voyager][zsa-voy] more than the [zsa moonlander][zsa-moon].
-My specific layout is only working with the [zsa moonlander][zsa-moon], but you can use the base layout I use [colmak dh][colmak]
-for any keyboard. Those two keyboards have "layers" which you can switch into and out of with a key you decide where it is.
-Most keyboards have static key positions, this means you can not change the symbol that is getting typed when pressing the physical key.
-The only way out of this, is to use scripts that change the input the computer is getting of the keyboard on the computer itself, or the keyboards are somewhat scriptable themselves.
-The keyboards of zsa have their layout compiled into the keyboard itself (you do not need to write scripts for that), this means you can change the layout and take the layout with the keyboard with you.They also provide a lot of easy to use tools around it.
-This might sound ridiculous, but you will find that after some practice you will be faster than on your old layout.
-I even got faster on qwerty after using my very different layout. The even crazier sounding idea I have for you is, when getting your keyboard, do use blank key caps.
-This may seem harder, but believe me it will be fine. There are great tools to [train][zsa-train] the custom layout and keyboard by the company that made them. You might just also be okay with non-blank key caps, but I really recommend using a different layout than qwerty. 
+The [ZSA Moonlander][zsa-moon] serves as an excellent entry-level keyboard, yet the [ZSA Voyager][zsa-voy], introduced last year, offers a universal solution catering to a broader audience, particularly for general typing tasks.
+While I haven't personally tested the Voyager, I believe it excels in versatility.
+If you prefer a keyboard that's adaptable to various environments and doesn't prioritize robustness, the [ZSA Voyager][zsa-voy] may be more suitable than the [ZSA Moonlander][zsa-moon].
+My personal layout is exclusive to the Moonlander, but I've configured a base layout, [Colemak DH][colmak], applicable to any keyboard.
+Both ZSA keyboards feature customizable layers, allowing you to seamlessly switch between different key configurations at the touch of a designated key.
+In contrast to conventional keyboards with fixed key positions, the ZSA keyboards embed their layouts directly, eliminating the need for external scripts.
+This feature enables you to modify the layout and carry it with you, complemented by user-friendly tools provided by ZSA.
+Although it may initially seem unconventional, with practice, you'll likely find increased typing speed compared to traditional layouts.
+For a more adventurous approach, consider opting for blank key caps.
+While this might seem challenging, the learning curve is manageable, supported by effective training tools offered by ZSA.
+While non-blank key caps are also an option, I strongly advocate for exploring a different layout than QWERTY for an optimized typing experience.
+
+
 
 # To summarize and complete
 
-- do not think that you do not work with your hands because you are "only" typing 
-- getting better at typing and improving your work gear can bring you a lot of joy, efficiency, less pain and more finger strength
-- choose a custom layout. Qwerty or any other typewriter layout was not designed for today's use of keyboards, you will get some advice here: [general][adv], [colmak dh][colmak], [getruer][blog]
-- layout matters, practice matters more, you can practice with a zsa product [here][zsa-train], with any other [here][typefast] or [here][monkey]
-- get a keyboard where you can take your custom layout with you, for typers that work in an office with or without laptops I recommend the [voyager][zsa-voy]
-- do not overthink the choosing of a layout, many are only there because qwerty and others are so bad.
-- be careful with country specific keys, for zsa products you need to configure the swiss keys and not the default ones.
-- have fun typing :)
+- Don't dismiss the significance of working with your hands just because you're "only" typing.
+- Enhancing your typing skills and upgrading your work gear can bring immense joy, boost efficiency, alleviate discomfort, and enhance finger strength.
+- Consider adopting a custom keyboard layout. Traditional layouts like QWERTY weren't designed for today's keyboard use. Explore options such as [General][adv], [Colemak DH][colmak], or [Getruer][blog] for guidance.
+- While layout is important, consistent practice is even more crucial. Utilize ZSA's training tools [here][zsa-train], or with any product try [here][typefast] or [here][monkey].
+- Opt for a keyboard that allows you to carry your custom layout with you. For general typists, especially those with or without laptops, the [Voyager][zsa-voy] is a recommended choice.
+- Don't overanalyze the choice of a layout; many alternatives exist because traditional layouts like QWERTY have limitations.
+- When configuring ZSA products, ensure configuration aligns with your countries layout rather than default ones.
+- Enjoy the typing journey! :)
 
 
 [adv]: https://www.daskeyboard.com/blog/qwerty-vs-dvorak-vs-colemak-keyboard-layouts/
